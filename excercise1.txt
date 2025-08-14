@@ -1,0 +1,10 @@
+
+Write tests for all the main parts of this code and tell me how much more of the code is checked.
+
+Create examples that check if every function in this code works as expected, and show how much more is covered.
+
+Test every important action in this code and explain how these tests help check more of the code.
+
+Make sure every part of this code is tested and let me know how much better the coverage is.
+
+Write checks for each feature in this code and tell me how much more of the code is being tested.
